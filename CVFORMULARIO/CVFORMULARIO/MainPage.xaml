@@ -1,0 +1,17 @@
+﻿<!-- MainPage.xaml -->
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CVFORMULARIO.MainPage">
+
+    <VerticalStackLayout Spacing="25" Padding="30">
+        <Entry x:Name="nombreEntry" Placeholder="Nombre"/>
+        <Entry x:Name="experienciaEntry" Placeholder="Experiencia"/>
+        <Entry x:Name="idiomaEntry" Placeholder="Idioma"/>
+        <Entry x:Name="aptitudEntry" Placeholder="Aptitud"/>
+        <Entry x:Name="habilidadEntry" Placeholder="Habilidad"/>
+        <Entry x:Name="interesEntry" Placeholder="Interés"/>
+        <!-- Agrega más campos según sea necesario -->
+
+        <Button Text="Crear CV" Clicked="OnCrearCvClicked"/>
+    </VerticalStackLayout>
+</ContentPage>
