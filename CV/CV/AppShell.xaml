@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+       xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:pages="clr-namespace:ProfilePage"
+       x:Class="ProfilePage.AppShell">
+
+
+    <FlyoutItem Title="Inicio" Icon="icon_home.png">
+    </FlyoutItem>
+
+    <FlyoutItem Title="Perfil" Icon="icon_profile.png">
+    </FlyoutItem>
+
+    
+    
+</Shell>

@@ -322,3 +322,7 @@ C:\Users\nxqui\OneDrive\Documentos\GitHub\Desarrollo_Basado_en_Plataformas\Traba
 C:\Users\nxqui\OneDrive\Documentos\GitHub\Desarrollo_Basado_en_Plataformas\Trabajo\Trabajo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\nxqui\OneDrive\Documentos\GitHub\Desarrollo_Basado_en_Plataformas\Trabajo\Trabajo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\nxqui\OneDrive\Documentos\GitHub\Desarrollo_Basado_en_Plataformas\Trabajo\Trabajo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\nxqui\OneDrive\Documentos\GitHub\Desarrollo_Basado_en_Plataformas\Trabajo\Trabajo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\linkedin.scale-100.png
+C:\Users\nxqui\OneDrive\Documentos\GitHub\Desarrollo_Basado_en_Plataformas\Trabajo\Trabajo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\mail.scale-100.png
+C:\Users\nxqui\OneDrive\Documentos\GitHub\Desarrollo_Basado_en_Plataformas\Trabajo\Trabajo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\telefono.scale-100.png
+C:\Users\nxqui\OneDrive\Documentos\GitHub\Desarrollo_Basado_en_Plataformas\Trabajo\Trabajo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\ubi.scale-100.jpg
